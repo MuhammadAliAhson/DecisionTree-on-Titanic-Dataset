@@ -33,7 +33,8 @@ This repository contains a Python notebook demonstrating the application of Deci
    - Evaluating the model's performance on the test set using accuracy score and classification report.
 
 9. **Medium Article**
-   - [https://medium.com/@i212535/decision-tree-classifiers-and-the-titanic-dataset-d0e8a72fd48c](#) - Share your Medium article discussing this project and your insights.
+   - https://medium.com/@i212535/decision-tree-classifiers-and-the-titanic-dataset-d0e8a72fd48c(#) -
+   - Medium article discussing this project in detail.
 
 ### Usage
 
@@ -51,8 +52,8 @@ To replicate the analysis, follow these steps:
 - scikit-learn
 
 ### Contributor
-- [Muhammad Ali Ahson]
+- Muhammad Ali Ahson
 
-For any questions or feedback, feel free to contact [aliahson56@gmail.com].
+For any questions or feedback, feel free to contact aliahson56@gmail.com.
 
 Thank you for exploring the Titanic dataset analysis with Decision Tree Classifier! 🚢🌳
