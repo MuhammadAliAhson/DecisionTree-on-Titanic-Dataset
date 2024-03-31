@@ -33,7 +33,7 @@ This repository contains a Python notebook demonstrating the application of Deci
    - Evaluating the model's performance on the test set using accuracy score and classification report.
 
 9. **Medium Article**
-   - https://medium.com/@i212535/decision-tree-classifiers-and-the-titanic-dataset-d0e8a72fd48c(#) -
+   - https://medium.com/@i212535/decision-tree-classifiers-and-the-titanic-dataset-d0e8a72fd48c
    - Medium article discussing this project in detail.
 
 ### Usage
